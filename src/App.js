@@ -1,3 +1,5 @@
+// Simple task manager application using React Hooks
+
 import { useState } from "react";
 
 function App() {
